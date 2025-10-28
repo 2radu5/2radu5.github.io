@@ -21,6 +21,6 @@
   </style>
 </head>
 <body>
-  <h1>Site-ul meu e live 🚀</h1>
+  <h1>2goat5</h1>
 </body>
 </html>
